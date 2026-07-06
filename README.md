@@ -3,11 +3,6 @@ Resources supporting my research for Audit tool development
 
 There's a lot of prior reading that I need to do to accurately and efficiently conduct this research. Here's a compilation of those. A menu will be shown here, there will be seperate folders of what has been completed/in-progress/to do.
 
-# 📚 Reading Index
-
-A structured reading roadmap for the project.
-
----
 
 ## 🧭 Table of Contents
 
